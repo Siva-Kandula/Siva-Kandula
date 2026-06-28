@@ -124,12 +124,20 @@ graph LR
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 🌟 Code & Architectural Philosophy
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siva-Kandula&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="Siva Kandula's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva-Kandula&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+```mermaid
+pie title Primary Focus Areas in Production ML
+    "Inference Optimization (vLLM, Quantization)" : 35
+    "Distributed Training & Alignment (FSDP2, Megatron)" : 30
+    "Agentic Systems & RAG (LangGraph)" : 20
+    "AI Governance & Guardrails (EU AI Act, NIST)" : 15
+```
+
+- 🔒 **Enterprise Scalability & Privacy**: As a senior leader in enterprise AI (ServiceNow, ADP, Hexagon), the vast majority of my architectural work resides in secure, proprietary enterprise repositories.
+- ⚙️ **Efficiency First**: I focus relentlessly on optimizing compute efficiency—leveraging techniques like **FP8/AWQ quantization**, **speculative decoding**, and **3D parallelism** to maximize hardware utilization (GPUs).
+- 🤝 **Governance-Driven Development**: Building AI systems that are not just highly performant, but strictly aligned with global regulatory frameworks (**EU AI Act**, **NIST AI RMF**, and **GDPR**).
+- 🔬 **Continuous Innovation**: Keeping pace with 2026's state-of-the-art AI paradigms, from **RoPE context scaling** to highly autonomous **LangGraph agentic pipelines**.
 
 ---
 
